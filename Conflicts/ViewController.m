@@ -20,7 +20,7 @@
     // Do any additional setup after loading the view.
 }
 - (IBAction)buttonPressed:(UIButton *)sender {
-    self.nameLabel.text = @"Hello world!";
+    self.nameLabel.text = @"Hello android interns!";
 }
 
 
